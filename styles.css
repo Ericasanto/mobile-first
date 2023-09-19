@@ -1,31 +1,16 @@
-</style>
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="logo.png" href="seuarquivo.css">
 </head>
 <body>
-  <header>
-  <!DOCTYPE html>
-  <html>
-  <head>
-    <title>Hitoria</title>
-    <style>
-      body {
-        background-color: #0080FF;
-      }
-      header {
-        background-color: #0000FF;
-        height: 100px;
-      }
-      h1 {
-        color: #5e24ca;
-        text-align: center;
-        padding-top: 40px;
-        font-size: 24px;
-        font-weight: bold;
-      }
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1>Meu Site</h1>
-    </header>
-  </body>
-  </html>
+  <div class="img"></div>
+</body>
+</html>
+<style>
+.logo {
+  width: 150px; /* Ajuste a largura conforme necessário */
+  height: 100px; /* Ajuste a altura conforme necessário */
+  background-image: url('img');
+  background-size: cover; /* Redimensiona a imagem para cobrir todo o elemento */
+}</style>
