@@ -1,11 +1,11 @@
 header {
     text-align: center;
-    background-color: #030303;
+    background-color: #050505;
     height: 90px;
   }
 
 h1 {
-    color: #fdfafa;
+    color: #f8f3f3;
     text-align: center;
     padding-top: 40px;
     font-size: 24px;
@@ -22,16 +22,16 @@ h1 {
   }
   .container .tab {
     flex: 1;
-    background-color: #f1ebeb; /*cor cabecalho dos links*/
+    background-color: #fdfafa; /*cor cabecalho dos links*/
     padding: 09px;
   }
    /* Estiliza todos os links */
    a{
-    color: rgb(35, 194, 88); /* Altere para a cor desejada */
+    color: rgb(49, 10, 141); /* Altere para a cor desejada */
   }
   .cabecalho {
-    background-color: rgb(240, 236, 236);
+    background-color: rgb(7, 7, 7);
     text-align: left;
     padding: 01px;
-    color: rgb(234, 25, 25);
+    color: rgb(12, 12, 12);
   }
